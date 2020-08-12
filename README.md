@@ -1,2 +1,4 @@
  exec:
-gtk-update-icon-cache .
+```
+gtk-update-icon-cache ./
+```
